@@ -1,0 +1,11 @@
+{
+  "name": "JanDrishti",
+  "description": "AI-Powered Civic Issue Reporting & Accountability Platform - Your View. Your Voice. Better Governance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
